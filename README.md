@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik1710&label=Profile%20views&color=0e75b6&style=flat" alt="karthik1710" /> </p>
 
-- 🔭 I’m currently working on **Motherson Technology Service Limited**
+- 🔭 I’m currently working on **ESAB India Limited**
 
 - 🌱 I’m currently learning **Kubernetes, Terraform**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Docker, Python, Kubernetes, Cloud**
 
-- 📫 How to reach me **karthik@k3s.in**
+- 📫 How to reach me **karthikpalani1710@gmail.com**
 
 - 📄 Know about my experiences [karthikpalani.com](karthikpalani.com)
 
