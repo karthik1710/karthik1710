@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **ESAB India Limited**
 
-- 🌱 I’m currently learning **Kubernetes, Terraform**
+- 🌱 I’m currently exploring **Ansible, Pytest**
 
 - 👨‍💻 All of my projects are available at [karthikpalani.com](karthikpalani.com)
 
-- 💬 Ask me about **Docker, Python, Kubernetes, Cloud**
+- 💬 Ask me about **Gitlab CI/CD, Docker, Python, Kubernetes, Terraform Cloud**
 
 - 📫 How to reach me **karthikpalani1710@gmail.com**
 
